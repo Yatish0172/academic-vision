@@ -1,0 +1,5 @@
+{
+  "name": "Face Attendance Academic Vision",
+  "description": "Local student enrollment, camera capture, attendance review, and reporting.",
+  "requestFramePermissions": ["camera"]
+}
